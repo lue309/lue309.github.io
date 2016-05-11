@@ -6,6 +6,16 @@ body {
 	background-repeat:no-repeat;
 	background-size: 100%;
 }
+.clickHere {
+	width: 166px;
+	height: 123px;
+	color: white;
+	position: relative;
+	z-index: 99;
+	float: left;
+	margin-top: 162%;
+	margin-left: 67%;
+}
 @media (max-width: 768px) {
 	body {
 		width: 768px;
