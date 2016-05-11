@@ -830,11 +830,6 @@ On click the images will be displayed at normal size to complete the effect
 }
 
 
-#popUpDiv {
-position:absolute;
-
-z-index: 9002;
-}
 @media (max-width: 768px) {
 
 	body {
