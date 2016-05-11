@@ -2323,7 +2323,7 @@ On click the images will be displayed at normal size to complete the effect
 	}
 
 }
-@media (min-width: 1900px) {
+@media (max-width: 1900px) {
 
 	.hList {
     display: inline-block;
